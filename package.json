@@ -1,6 +1,6 @@
 {
     "name": "cra-template-styled-react",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "browserslist": {
         "production": [
             ">0.2%",
